@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MovieRater_wk9</string>
+    <string name="add_movie">You have not added a movie \n Long Press me to add a movie</string>
+    <string name="text_name">Name</string>
+    <string name="field_name">Enter the title of the movie</string>
+    <string name="text_desc">Description</string>
+    <string name="field_desc">Enter a short description of the movie</string>
+    <string name="text_language">Language</string>
+    <string name="rbtn1_text">English</string>
+    <string name="rbtn2_text">Chinese</string>
+    <string name="rbtn3_text">Malay</string>
+    <string name="rbtn4_text">Tamil</string>
+    <string name="text_date">Relase date</string>
+    <string name="field_date">Enter release date</string>
+    <string name="checkbox1_text">Not suitable for all audience</string>
+    <string name="checkbox2_text">Violence</string>
+    <string name="checkbox3_text">Language used</string>
+    <string name="add_menu">Add</string>
+    <string name="clear_menu">Clear entries</string>
+    <string name="titleDisplay">Title</string>
+    <string name="overview">Overview</string>
+    <string name="languageDisplay">Language</string>
+    <string name="dateDisplay">Release date</string>
+    <string name="suitableDisplay">Suitable for children below 13</string>
+    <string name="reviewDisplay">Reviews</string>
+    <string name="share_view">Share your view on the show</string>
+    <string name="submit_review">Submit</string>
+</resources>
